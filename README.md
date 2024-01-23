@@ -7,12 +7,24 @@ In der History dieses Repos gibt es einen Einblick in unterschiedliche varriante
 
 ![haxentreffen.svg](haxentreffen.svg)
 
+# Mirrors
+Dises git Repository befindet sich auf Github und einem gitea Server. Pull-Requests sind sehr gerne gesehen.
+Wenn ihr verbesserungsvorschläge habt, öffnet gerne ein Issue.
++ Github: [github.com/DO1JLR/thw__hermeme_haxentreffen_muensingen_patch](https://github.com/DO1JLR/thw__hermeme_haxentreffen_muensingen_patch.git)
++ Gitea: [git.l3d.ch/thw/haxentreffen_muensingen_patch](https://git.l3d.ch/thw/haxentreffen_muensingen_patch.git)
+
 # Lizenz:
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/de/)
+Dieser Patch steht unter der [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) Lizenz, das bedeutet dass der Patch unter der Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz steht. Gemäß dieser Lizenz dürft Ihr den Patch frei nutzen, verbreiten, bearbeiten und darauf aufbauen, solange Ihr den Urheber (L3D <l3d@c3woc.de>) korrekt nennt und das abgeleitete Werk unter denselben Bedingungen freigebt.
+
+Solltet ihr diesen Patch herstellen, treten bitte mit "L3D <l3d@c3woc.de>" in Kontakt und bietet ihm auch einen Patch an.
 ```
 Urheber: L3D <l3d@c3woc.de>
-https://creativecommons.org/licenses/by/3.0/de/
+http://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 ## Sonstiges
-Fonts: ``LubalGraph Bk BT``
+Font: ``LubalGraph Bk BT``
+Colors:
+  - Black
+  - White
+  - Blue (Ultramarin, RAL 5002, RGB #120a8f)
