@@ -27,4 +27,6 @@ Font: ``LubalGraph Bk BT``
 Colors:
   - Black
   - White
-  - Blue (Ultramarin, RAL 5002, RGB #120a8f)
+  - Blue (Ultramarin, RAL 5002, RGB: ``#120A8F``)
+  - Red (Erdbeerrot, RAL 3018, RGB: ``#D53032``)
+  - Orange (Leuchthellorange, RAL 2007, RGB: ``#FFB200``)
